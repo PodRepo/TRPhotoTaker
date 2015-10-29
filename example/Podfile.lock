@@ -1,0 +1,14 @@
+PODS:
+  - TRPhotoTaker (0.0.1)
+
+DEPENDENCIES:
+  - TRPhotoTaker (from `../`)
+
+EXTERNAL SOURCES:
+  TRPhotoTaker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TRPhotoTaker: 0cb92950f07116868bb4b881b6d59c9eb8534e94
+
+COCOAPODS: 0.39.0
